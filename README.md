@@ -26,5 +26,7 @@ Min personliga portfolio utvecklad med React, Vite och Tailwind CSS. Projektet p
 
 🔗 [Repository](https://github.com/elbrd/Concept-Webstore-React)
 
+🌐 [Live demo](https://concept-webstore.vercel.app/)
+
 En konceptuell e-handelsapplikation utvecklad för att utforska moderna frontendmönster och skalbar applikationsarkitektur. Projektet byggdes först i Vanilla JavaScript och utvecklades senare om från grunden i React som en del av övergången till komponentbaserad utveckling.
 
