@@ -30,3 +30,11 @@ Min personliga portfolio utvecklad med React, Vite och Tailwind CSS. Projektet p
 
 En konceptuell e-handelsapplikation utvecklad för att utforska moderna frontendmönster och skalbar applikationsarkitektur. Projektet byggdes först i Vanilla JavaScript och utvecklades senare om från grunden i React som en del av övergången till komponentbaserad utveckling.
 
+### AI-chat-app
+
+🔗 [Repository](https://github.com/elbrd/AI-chat-app)
+
+🌐 [Live demo](https://jippidy.vercel.app/)
+
+En avskalad AI-chattapplikation utvecklad med React, Vite och Node.js. Applikationen använder Groq API för AI-genererade svar och har stöd för webbsökning genom Groqs Compound Mini, vilket gör det möjligt att hämta aktuell information och presentera relevanta källor tillsammans med svaret.
+
