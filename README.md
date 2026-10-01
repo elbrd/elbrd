@@ -36,5 +36,5 @@ En konceptuell e-handelsapplikation utvecklad för att utforska moderna frontend
 
 🌐 [Live demo](https://jippidy.vercel.app/)
 
-En avskalad AI-chattapplikation utvecklad med React, Vite och Node.js. Applikationen använder Groq API för AI-genererade svar och har stöd för webbsökning genom Groqs Compound Mini, vilket gör det möjligt att hämta aktuell information och presentera relevanta källor tillsammans med svaret.
+En avskalad AI-chattapplikation utvecklad med React, Vite och Node.js. Applikationen använder Groq API för AI-genererade svar och har stöd för webbsökning genom Groqs `browser_search`.
 
