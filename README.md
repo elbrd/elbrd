@@ -7,7 +7,7 @@ Jag studerar frontendutveckling och har tidigare arbetat med UX-design och mjukv
 ## 🛠 Verktyg & tekniker
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,mongodb,aws,langchain" />
 </p>
 
 ---
@@ -22,7 +22,7 @@ Jag studerar frontendutveckling och har tidigare arbetat med UX-design och mjukv
 
 Min personliga portfolio utvecklad med React, Vite och Tailwind CSS. Projektet presenterar mina utvecklings- och UX-projekt genom ett egenutvecklat designsystem, återanvändbara komponenter och ett responsivt gränssnitt med fokus på struktur, prestanda och användarupplevelse.
 
-### Concept-Webstore
+### Concept Webstore
 
 🔗 [Repository](https://github.com/elbrd/Concept-Webstore-React)
 
@@ -30,7 +30,7 @@ Min personliga portfolio utvecklad med React, Vite och Tailwind CSS. Projektet p
 
 En konceptuell e-handelsapplikation utvecklad för att utforska moderna frontendmönster och skalbar applikationsarkitektur. Projektet byggdes först i Vanilla JavaScript och utvecklades senare om från grunden i React som en del av övergången till komponentbaserad utveckling.
 
-### AI-chat-app
+### Jippidy
 
 🔗 [Repository](https://github.com/elbrd/AI-chat-app)
 
@@ -38,3 +38,8 @@ En konceptuell e-handelsapplikation utvecklad för att utforska moderna frontend
 
 En avskalad AI-chattapplikation utvecklad med React, Vite och Node.js. Applikationen använder Groq API för AI-genererade svar och har stöd för webbsökning genom Groqs `browser_search`.
 
+### Productwatcher
+
+🔗 [Repository](https://github.com/elbrd/productwatcher)
+
+En automatiserad produktbevakare utvecklad med Node.js som använder SerpApi för att söka efter produkter via Google Shopping. Sökresultaten filtreras och relevansbedöms med hjälp av en språkmodell via Groq API, som sammanställer relevanta träffar till automatiska mejlutskick via Resend. Körs schemalagt med GitHub Actions.
