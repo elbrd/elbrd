@@ -7,7 +7,7 @@ Jag studerar frontendutveckling och har tidigare arbetat med UX-design och mjukv
 ## 🛠 Verktyg & tekniker
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,mongodb,aws,langchain" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,express,mongodb,aws,langchainjs" />
 </p>
 
 ---
